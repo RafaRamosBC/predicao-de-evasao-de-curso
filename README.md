@@ -25,7 +25,7 @@ Prever se um aluno irá evadir ou não, utilizando variáveis como mensagens par
 
 ## 📁 Estrutura
 - `notebook.ipynb`: código principal do projeto
-- `data/`: (opcional) arquivos de dados, se for o caso
+- `data/`: edtech_dropout_dataset.csv
 - `README.md`: este arquivo
 
 ## ✅ Resultados
